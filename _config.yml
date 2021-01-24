@@ -26,7 +26,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
