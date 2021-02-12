@@ -1,5 +1,5 @@
 ---
-layout: 404
+layout: about
 title: Merchandise
 permalink: /merchandise/
 ---
