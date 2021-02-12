@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to STARS!
+title: Welcome to STaRS!
 email: adolocmihu@ggc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)
@@ -30,6 +30,13 @@ header_pages:
 #   - archives.html
 #   - categories.html
 #   - tags.html
+
+# Page default value
+defaults:
+  home:
+    heading: "STaRS 2021 is on April 8, noon-3pm"
+    subheading: "Welcome to the Science Technology and Reseach Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
+#    banner: "Your image url"
 
 # Build settings
 markdown: kramdown
