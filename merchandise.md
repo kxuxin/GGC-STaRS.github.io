@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: 404
 title: Merchandise
 permalink: /merchandise/
 ---
 
-Here is the list of t-shirt contest
+Here is the list of merchandise items
