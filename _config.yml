@@ -29,6 +29,12 @@ header_pages:
   - index.html
   - about.md
   - posters.md
+  - activities.md
+  - studentorgs.md
+  - sponpors.md
+  - gradschools.md
+  - tshirtcontest.md
+  - merchandise.md
 
 #   - archives.html
 #   - categories.html
