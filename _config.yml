@@ -44,7 +44,7 @@ header_pages:
 defaults:
   home:
     heading: "STaRS 2021 is on April 8, noon-3pm"
-    subheading: "Welcome to the Science Technology and Reseach Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
+    subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
     banner: "/assets/images/stars-logo-green-wide.png"
 
 # Night/Dark mode
