@@ -38,7 +38,7 @@ defaults:
   home:
     heading: "STaRS 2021 is on April 8, noon-3pm"
     subheading: "Welcome to the Science Technology and Reseach Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
-#    banner: "Your image url"
+    banner: "/assets/images/sst-image-fb.jpg"
 
 # Build settings
 markdown: kramdown
