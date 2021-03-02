@@ -58,7 +58,7 @@ defaults:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "manual"
 
 # Build settings
 markdown: kramdown
