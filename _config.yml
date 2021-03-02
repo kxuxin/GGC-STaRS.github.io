@@ -45,7 +45,7 @@ defaults:
   home:
     heading: "STaRS 2021 is on April 8, noon-3pm"
     subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
-    banner: "/assets/images/stars-logo-green-wide.png"
+    banner: "/assets/images/stars-logo-green-wide-tall.png"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
