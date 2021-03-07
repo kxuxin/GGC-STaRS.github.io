@@ -37,8 +37,7 @@ photos:
 - Tech Ambassador Program TAP_GGC1439.JPG
 ---
 
-The Science Technology and Reseach Symposium (STaRS) is organized by the School of Science and Technology at Georgia Gwinnett College every spring. The purpose of this event is to promote science, math, and technology for our STEM students, and to provide opportunities to showcase the scientific research and other STEM activities that take place at GGC. This year’s all virtual event will take place on **Thursday April 8th, 2021** from **12:00 noon to 3:00 p.m**.  The purpose of this event is to promote science, math, and technology for our STEM students, and to provide opportunities to showcase the scientific research and other STEM activities that take place at GGC. 
-
+The Science Technology and Reseach Symposium (STaRS) is organized by the School of Science and Technology at Georgia Gwinnett College every spring. The purpose of this event is to promote science, math, and technology for our STEM students, and to provide opportunities to showcase the scientific research and other STEM activities that take place at GGC. This year’s all virtual event will take place on **Thursday April 8th, 2021** from **12:00 noon to 3:00 p.m**. 
 
 ![SST collage](/assets/images/sst-image-fb.jpg "A collage of SST faculty and students")
 
