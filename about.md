@@ -16,20 +16,20 @@ photos:
 - Candid Chemistry Images for H16776090625_f4ab55cca2_o.jpg
 - Candid Chemistry Images for H44621689285_a108f29202_o.jpg
 - Game of Drones Fall 2019_GGC9879.jpg
-- _GGC5524.JPG
-- _GGC5579.JPG
-- _GGC5750.JPG
-- _GGC5804.JPG
-- _GGC9281.JPG
+- GGC5524.JPG
+- GGC5579.JPG
+- GGC5750.JPG
+- GGC5804.JPG
+- GGC9281.JPG
 - Jesse Merida 3D Face masks_GGC5642.JPG
 - Mai Yin Tsoi Teaching Chem _GGC7491.JPG
 - Screenshot (48).png
 - Service learning Interns SST_GGC4759.JPG
 - SST Students and Faculty _GGC6848.jpg
-- Strickland Lab in Building 1.jpg
-- Strickland Lab in Building 2.jpg
-- Strickland Lab in Building 4.jpg
-- Strickland Lab in Building 5.jpg
+- Strickland Lab 1.jpg
+- Strickland Lab 2.jpg
+- Strickland Lab 3.jpg
+- Strickland Lab 4.jpg
 - TAP Event Fall 2019_GGC2975.jpg
 - TAP Event Fall 2019_GGC3446.jpg
 - TAP Event Fall 2019Tech Ambassador Program TAP_GGC1558.jpg
