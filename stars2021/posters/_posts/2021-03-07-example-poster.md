@@ -11,7 +11,7 @@ tags: biology it
 # - use a layout to auto display the content below
 ---
 
-Submit your poster as a PDF file like one below. Also upload a video file as MP4 or MKV (see below).
+Submit your poster as a PDF file like one below. Optionally, upload a video file as MP4 or MKV (see below).
 
 {%- assign poster_file = page.path | split: "/" | pop | pop | join: "/" | append: "/images/" | append: page.poster_file -%}
 [![poster thumbnail]({{ poster_file | append: ".png" | relative_url }})]({{ poster_file | append: ".pdf" | relative_url }})
