@@ -2,6 +2,13 @@
 layout: about
 title: Merchandise
 permalink: /merchandise/
+merch:
+
 ---
 
-Here is the list of merchandise items
+**Here are the STaRS t-shirts and masks. Purchasing links TBA.**
+
+![T-shirt option 1](/assets/images/merchandise/STaRS 2021_merchandise-1.png "Merchandise option 1")
+![T-shirt option 2](/assets/images/merchandise/STaRS 2021_merchandise-2.png "Merchandise option 2")
+![T-shirt option 3](/assets/images/merchandise/STaRS 2021_merchandise-3.png "Merchandise option 3")
+![Face mask](/assets/images/merchandise/STaRS 2021_merchandise-4.png "Merchandise option 4")
