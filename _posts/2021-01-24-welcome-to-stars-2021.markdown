@@ -12,7 +12,7 @@ event.
 Here are important deadlines:
 
 - **Registration for activities: February 28**
-- **Registration for posters: March 15**
+- **Submission of posters: March 15**
 
 Stay tuned for more updates! 
 
