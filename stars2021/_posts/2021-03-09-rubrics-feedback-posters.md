@@ -6,11 +6,13 @@ categories: update
 
 Poster Rubrics Feedback:
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+**Video only posters get 1 pt deduction from final score**
+
+| Presentation Scoring | Criteria | 
+|-------|--------|
+| 5 | Reseach Topic or Problem is relevant to SST STEM domains.<br>  Design and methodology is sound.<br>Creativity is evident with sound execution.<br>Excellent presentation. | 
+| pink lady | jazz |
+| honeycrisp | granny smith | 
 
 - Video should be shorter than 10 minutes
 
