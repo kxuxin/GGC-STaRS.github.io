@@ -4,6 +4,11 @@ title: Graduate Schools
 permalink: /gradschools/
 ---
 
+Graduate schools participants:
+* Philadelphia College of Osteopathic Medicine
+* Kennesaw State University
+
+
 One of the main attractions for our undergraduates attending STaRS is the **Graduate and Professional School Fair** in which representatives from regional graduate and professional schools provide admissions and program information for students who seek to submit competitive applications.  Many of our students pursue post-graduate degrees after GGC, and we believe that they will be excited to hear about the Graduate Programs offered at your institution. Although the format will be a little different this year due to the current pandemic, this offers a unique opportunity to host representatives that would otherwise be limited by geographical distance.  
 
 Thus, your participation at STaRS is a great opportunity for you to establish a strong presence on GGC's campus and market your programs to future GGC STEM graduates.  We invite you to take advantage of this opportunity to engage our diverse student body, raise their level of interest, and introduce them to your programs. 
@@ -13,4 +18,3 @@ If you have any questions about the STaRS Graduate & Professional School Fair, p
  
 We hope to see you in April! 
 
-Here is the list of graduate schools
