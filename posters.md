@@ -25,5 +25,5 @@ posters:
 
 # STaRS Posters Rubrics Feedback
 
-**Live presentations of posters are preferred. Video only posters get 1 pt deduction from final score.**
+**Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.**
 
