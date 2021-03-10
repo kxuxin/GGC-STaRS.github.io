@@ -5,14 +5,14 @@ permalink: /gradschools/
 ---
 
 <div align="left">
-  <h2>✨Graduate Schools participants✨<h2>
+  <h2>✨Graduate Schools participants✨</h2>
    
 * Philadelphia College of Osteopathic Medicine
 * [Kennesaw State University](https://msit.kennesaw.edu/)
 </div>
 
 <div align="left">
-  <h2>✨Call for Graduate Schools participation✨<h2>
+  <h2>✨Call for Graduate Schools participation✨</h2>
 
 One of the main attractions for our undergraduates attending STaRS is the **Graduate and Professional School Fair** in which representatives from regional graduate and professional schools provide admissions and program information for students who seek to submit competitive applications.  Many of our students pursue post-graduate degrees after GGC, and we believe that they will be excited to hear about the Graduate Programs offered at your institution. Although the format will be a little different this year due to the current pandemic, this offers a unique opportunity to host representatives that would otherwise be limited by geographical distance.  
 
