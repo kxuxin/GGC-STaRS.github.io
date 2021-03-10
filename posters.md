@@ -7,9 +7,9 @@ posters:
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
 ---
-<div align="center">
+<div align="left">
   
-  <h1>🎨 JEKYLL YAT THEME 🎨</h1>
+  <h1>✨ JEYLL YAT THEME ✨</h1✨
 
 </div>
 
