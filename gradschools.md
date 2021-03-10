@@ -12,7 +12,7 @@ permalink: /gradschools/
 * Philadelphia College of Osteopathic Medicine 
 * [Kennesaw State University](https://msit.kennesaw.edu/)
 * Mercer University 
-* UGA College of Pharmacy
+* UGA College of Pharmacy {{< figure src="/GGC-STaRS.github.io/stars2021/images/uga-pharmacysocial.jpg" width=200 >}}
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
