@@ -9,8 +9,10 @@ permalink: /gradschools/
 
 <h3>✨Graduate Schools participants✨</h3>
    
-* Philadelphia College of Osteopathic Medicine <br>
+* Philadelphia College of Osteopathic Medicine 
 * [Kennesaw State University](https://msit.kennesaw.edu/)
+* Mercer University 
+* UGA College of Pharmacy
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
