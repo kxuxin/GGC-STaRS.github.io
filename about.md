@@ -72,7 +72,7 @@ The School of Science and Technology (SST) at GGC is creating a diverse communit
       setInterval(function() {
         $('#slideshow > div:first')
           .fadeOut(1000, function() { 
-	  	this.appendTo('#slideshow'); 
+	  	$(this).appendTo('#slideshow'); 
 		$('#slideshow > div:first').fadeIn(1000); } );
       }, 3000);
 
