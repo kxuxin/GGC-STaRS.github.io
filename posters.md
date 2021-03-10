@@ -13,9 +13,12 @@ posters:
 
 </div>
 
-# Poster Submission Instructions
+<div align="left">
+ <br> 
+  <h1>✨ Poster Submission Instructions ✨</h1>
 
 Please follow instructions in [this post](https://ggc-stars.github.io/stars2021/update/2021/03/07/poster-submission-instructions.html) to submit your posters.
+</div>
 
 # Poster Judging Information
 
