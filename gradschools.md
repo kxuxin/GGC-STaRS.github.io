@@ -10,7 +10,7 @@ permalink: /gradschools/
 <h3>✨Graduate Schools participants✨</h3>
    
 * Philadelphia College of Osteopathic Medicine 
-* [Kennesaw State University](https://msit.kennesaw.edu/)
+* [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](MSIT-Flyer.pdf)
 * Mercer University 
 * UGA College of Pharmacy. [Graduate Program Decider](https://ggc-stars.github.io/stars2021/images/uga-gradprogramsdecider.pdf)
 
