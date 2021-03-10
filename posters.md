@@ -7,7 +7,6 @@ posters:
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
 ---
-
 <div align="left">
  <br> 
   <h2>✨ Poster Submission Instructions ✨</h2>
