@@ -3,6 +3,10 @@ layout: about
 title: Graduate Schools
 permalink: /gradschools/
 ---
+
+<h1> STaRS Graduate & Professional School Fair</h1>
+
+
 <h2>✨Graduate Schools participants✨</h2>
    
 * Philadelphia College of Osteopathic Medicine <br>
