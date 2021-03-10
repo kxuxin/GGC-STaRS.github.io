@@ -8,7 +8,17 @@ posters:
 # go through tags in this page? or show tags next to title?
 ---
 
-# STaRS 2021 Posters
+# Poster Submission Instructions
+
+Please follow instructions in [this post](https://ggc-stars.github.io/stars2021/update/2021/03/07/poster-submission-instructions.html) to submit your posters.
+
+# Poster Judging Information
+
+Posters will be judged according to criteria posted [here](https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html).
+
+Note: **Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.**
+
+# STaRS 2021 Posters (Example)
 
 <div class="page-segments">
     <ul class="page-segments-list">
@@ -23,7 +33,4 @@ posters:
 
 ---
 
-# STaRS Posters Rubrics Feedback
-
-**Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.**
 
