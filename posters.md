@@ -20,3 +20,8 @@ posters:
         {% endfor %}
     </ul>
 </div>
+
+---
+
+# Posters Contest Details
+
