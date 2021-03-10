@@ -9,7 +9,7 @@ posters:
 ---
 <div align="left">
   
-  <h1>✨ JEYLL YAT THEME ✨</h1✨
+  <h1>✨ JEYLL YAT THEME ✨</h1>
 
 </div>
 
