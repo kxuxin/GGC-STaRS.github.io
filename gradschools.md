@@ -7,7 +7,7 @@ permalink: /gradschools/
    
 * Philadelphia College of Osteopathic Medicine <br>
 * <a href="https://msit.kennesaw.edu/">Kennesaw State University</a>
-* [Kennesaw State University](https://msit.kennesaw.edu/">Kennesaw State University)
+* [Kennesaw State University](https://msit.kennesaw.edu/)
 
 <div align="left">
   <h2>✨Call for Graduate Schools participation✨</h2>
