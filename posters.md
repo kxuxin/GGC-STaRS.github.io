@@ -10,14 +10,14 @@ posters:
 
 <div align="left">
  <br> 
-  <h1>✨ Poster Submission Instructions ✨</h1>
+  <h1>✨ POSTER SUBMISSION INSTRUCTIONS ✨</h1>
 
 Please follow instructions in <a href="https://ggc-stars.github.io/stars2021/update/2021/03/07/poster-submission-instructions.html"> this post </a> to submit your posters.
 </div>
 
 <div align="left">
  <br> 
-  <h1>✨ Poster Judging Information ✨</h1>
+  <h1>✨ POSTER JUDGING INFORMATION ✨</h1>
 
 Posters will be judged according to criteria posted <a href="https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html">here</a>.
 <br>
@@ -26,7 +26,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 
 <div align="left">
  <br> 
-  <h1>✨ STaRS 2021 Posters (Example) ✨</h1>
+  <h1>✨ STaRS 2021 POSTERS (Example) ✨</h1>
 
 <div class="page-segments">
     <ul class="page-segments-list">
