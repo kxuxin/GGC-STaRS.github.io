@@ -23,5 +23,7 @@ posters:
 
 ---
 
-# Posters Contest Details
+# STaRS Posters Rubrics Feedback
+
+**Live presentations of posters are preferred. Video only posters get 1 pt deduction from final score.**
 
