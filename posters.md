@@ -7,6 +7,11 @@ posters:
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
 ---
+<div align="center">
+  
+  <h1>🎨 JEKYLL YAT THEME 🎨</h1>
+
+</div>
 
 # Poster Submission Instructions
 
