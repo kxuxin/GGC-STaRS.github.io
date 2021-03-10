@@ -19,9 +19,9 @@ Please follow instructions in <a href="https://ggc-stars.github.io/stars2021/upd
  <br> 
   <h1>✨ Poster Judging Information ✨</h1>
 
-Posters will be judged according to criteria posted <a href="https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html" target="_blank"><code>here</code></a>.
-
-Note: **Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.**
+Posters will be judged according to criteria posted <a href="https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html">here</a>.
+<br>
+Note: <b>Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.</b>
 </div>
 
 <div align="left">
