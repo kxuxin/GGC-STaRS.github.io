@@ -37,7 +37,11 @@ photos:
 - Tech Ambassador Program TAP_GGC1439.JPG
 ---
 
-The Science Technology and Reseach Symposium (STaRS) is organized by the [School of Science and Technology](https://www.facebook.com/ggc.sst) at [Georgia Gwinnett College](https://www.ggc.edu/) every spring. The purpose of this event is to promote science, math, and technology for our STEM students, and to provide opportunities to showcase the scientific research and other STEM activities that take place at GGC. 
+## ✨ Science, Technology, and Reseach Symposium (STaRS) ✨
+
+The STaRS event is organized by the [School of Science and Technology](https://www.facebook.com/ggc.sst) at [Georgia Gwinnett College](https://www.ggc.edu/) every spring. The purpose of this event is to promote science, math, and technology for our STEM students, and to provide opportunities to showcase the scientific research and other STEM activities that take place at GGC. 
+
+### :bear: School of Science and Technology (SST) :bear:
 
 ![SST collage](/assets/images/sst-image-fb.jpg "A collage of SST faculty and students")
 
