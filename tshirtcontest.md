@@ -19,4 +19,4 @@ permalink: /tshirtcontest/font-size:4em;
 <img src="/assets/images/tshirts/T-shirt Winner.png" style="max-width:170px; max-height:170px; float: center;">
 <br>
 <p style="clear: left;">Note: We aren't selling merchandise this year due it being a virtual event.</p>
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+**My Bold Text, in red color.**{: style="clear: left; font-size:1.5em; color: red; opacity: 0.80;" } **My Bold Text, in no color.**{: style="clear: left; font-size:1.5em;" }
