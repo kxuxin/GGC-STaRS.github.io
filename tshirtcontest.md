@@ -6,11 +6,11 @@ permalink: /tshirtcontest/
 
 Here is the list of t-shirt contest
 
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width=150; max-height=200;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width=150; max-height=200;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width=150; max-height=200;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width=150; max-height=200;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width=150; max-height=200;">
+<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
 
 | <!-- --> | <!-- -->  | <!-- --> | <!-- -->  | <!-- -->  |
 |------|------|------|------|------|
