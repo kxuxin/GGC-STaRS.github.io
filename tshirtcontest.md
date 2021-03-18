@@ -10,9 +10,9 @@ permalink: /tshirtcontest/font-size:4em;
 <img src="/assets/images/tshirts/STARStshirt_HeidiBolte.png" style="max-width:170px; max-height:170px; float: left;">
 <img src="/assets/images/tshirts/Miguel Lago.png" style="max-width:170px; max-height:170px; float: left;">
 <img src="/assets/images/tshirts/DaisyAguilar.png" style="max-width:170px; max-height:170px; float: left;">
-<img src="/assets/images/tshirts/CassandraRichemond.png" style="max-width:170px; max-height:170px; float: left;"> <br />
-####
+<img src="/assets/images/tshirts/CassandraRichemond.png" style="max-width:170px; max-height:170px; float: left;"> 
 
+<p style="clear: left; font-size:1.5em; color: red"></p>
 <p style="clear: left; font-size:1.5em; color: red">✨Congratulations to the winning design of the past event, STaRS 2019!✨</p> 
 <img src="/assets/images/tshirts/T-shirt Winner.png" style="max-width:170px; max-height:170px; float: center;">
 
