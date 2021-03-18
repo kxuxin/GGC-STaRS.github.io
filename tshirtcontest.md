@@ -14,6 +14,7 @@ permalink: /tshirtcontest/font-size:4em;
 
 <br>
 <br>
+**✨Congratulations**{: style="clear: left; font-size:1.5em; color: red; opacity: 0.80;" } **to the winning design of the past event, STaRS 2019!✨**{: style="clear: left; font-size:1.5em;" }
 
 <p style="clear: left; font-size:1.5em; color: red">✨Congratulations to the winning design of the past event, STaRS 2019!✨</p> 
 <img src="/assets/images/tshirts/T-shirt Winner.png" style="max-width:170px; max-height:170px; float: center;">
