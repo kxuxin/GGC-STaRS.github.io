@@ -10,9 +10,12 @@ Here is the list of t-shirt contest
 |------|------|------|------|------|
 |![](/assets/images/tshirts/Lisa Tang.png){: width="150" } |![](/assets/images/tshirts/STARStshirt_HeidiBolte.png){: width="150" } |![](/assets/images/tshirts/Miguel Lago.png){: width="150" } |![](/assets/images/tshirts/DaisyAguilar.png){: width="150" } |![](/assets/images/tshirts/Cassandra Richemond.png){: width="150" } |
 
-|                                                                              |                                                                              |
-|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| ![](https://gravatar.com/avatar/4cc702785290b4934c531c56f6061e5e "Tonejito") | ![](https://gravatar.com/avatar/4cc702785290b4934c531c56f6061e5e "Tonejito") |
+
+| <!-- --> | <!-- -->  | <!-- --> | <!-- -->  | <!-- -->  |
+|------|------|------|------|------|
+| ![VOTE here](https://ggc.az1.qualtrics.com/jfe/form/SV_3fVkT5VXAk2SkhE) |![](/assets/images/tshirts/Lisa Tang.png){: width="150" } |![](/assets/images/tshirts/STARStshirt_HeidiBolte.png){: width="150" } |
+|![](/assets/images/tshirts/Miguel Lago.png){: width="150" } |![](/assets/images/tshirts/DaisyAguilar.png){: width="150" } |![](/assets/images/tshirts/Cassandra Richemond.png){: width="150" } |
+
 
 
 Note: We aren't selling merchandise this year due it being a virtual event.
