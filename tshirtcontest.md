@@ -8,7 +8,7 @@ Here is the list of t-shirt contest
 
 | <!-- --> | <!-- -->  | <!-- --> | <!-- -->  | <!-- -->  |
 |------|------|------|------|------|
-|![](/assets/images/tshirts/Lisa Tang.png) | gala | red delicious | alalal | lalalal |
+|![](/assets/images/tshirts/Lisa Tang.png){: width="150" } | gala | red delicious | alalal | lalalal |
 
 |                                                                              |                                                                              |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
