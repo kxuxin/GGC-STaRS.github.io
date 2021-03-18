@@ -7,10 +7,10 @@ permalink: /tshirtcontest/
 Here is the list of t-shirt contest
 
 <img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
-<img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/STARStshirt_HeidiBolte.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Miguel Lago.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/DaisyAguilar.png" style="max-width:150px; max-height:200px; float: left;">
+<img src="/assets/images/tshirts/Cassandra Richemond.png" style="max-width:150px; max-height:200px; float: left;">
 
 | <!-- --> | <!-- -->  | <!-- --> | <!-- -->  | <!-- -->  |
 |------|------|------|------|------|
