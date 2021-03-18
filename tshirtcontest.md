@@ -12,5 +12,9 @@ permalink: /tshirtcontest/
 <img src="/assets/images/tshirts/DaisyAguilar.png" style="max-width:170px; max-height:170px; float: left;">
 <img src="/assets/images/tshirts/CassandraRichemond.png" style="max-width:170px; max-height:170px; float: left;">
 
+<br>
+Congratulations to the winning design of the past event, STaRS 2019! 
+<img src="/assets/images/tshirts/T-shirt Winner.png" style="max-width:170px; max-height:170px; float: left;">
 
+<br>
 <p style="clear: left;">Note: We aren't selling merchandise this year due it being a virtual event.</p>
