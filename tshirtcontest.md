@@ -4,7 +4,7 @@ title: T-shirt Contest
 permalink: /tshirtcontest/
 ---
 
-Here is the list of t-shirt contest  <a href="https://ggc.az1.qualtrics.com/jfe/form/SV_3fVkT5VXAk2SkhE"> VOTE here </a> 
+<a href="https://ggc.az1.qualtrics.com/jfe/form/SV_3fVkT5VXAk2SkhE"> VOTE here for your favorite Tshirt design </a> from the list of the top 5 Tshirts out of 19 submissions: 
 
 <img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:170px; max-height:170px; float: left;">
 <img src="/assets/images/tshirts/STARStshirt_HeidiBolte.png" style="max-width:170px; max-height:170px; float: left;">
@@ -13,5 +13,4 @@ Here is the list of t-shirt contest  <a href="https://ggc.az1.qualtrics.com/jfe/
 <img src="/assets/images/tshirts/CassandraRichemond.png" style="max-width:170px; max-height:170px; float: left;">
 
 
-
-Note: We aren't selling merchandise this year due it being a virtual event.
+<p style="clear: left;">Note: We aren't selling merchandise this year due it being a virtual event.</p>
