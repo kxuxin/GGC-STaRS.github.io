@@ -4,7 +4,7 @@ title: T-shirt Contest
 permalink: /tshirtcontest/font-size:4em;
 ---
 
-<span style="font-size:4em;">Red</span>
+<p style="clear: left; font-size:14em;">Red</p>
 ✨<a href="https://ggc.az1.qualtrics.com/jfe/form/SV_3fVkT5VXAk2SkhE"> VOTE here for your favorite Tshirt design </a> from the list of the top 5 Tshirts out of 19 submissions: ✨
 
 <img src="/assets/images/tshirts/Lisa Tang.png" style="max-width:170px; max-height:170px; float: left;">
