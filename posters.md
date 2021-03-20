@@ -35,6 +35,12 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
     </ul>
 </div>
 </div>
+
+<ul>
+{% for poster in site.data.stars2021.posters %}
+  <li><a href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}">{{poster["Poster title"]}}</a></li>
+{% endfor %}
+</ul>
 ---
 
 

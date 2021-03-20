@@ -4,8 +4,6 @@ layout: post
 <p><strong>Poster student(s):</strong> {{ page.students }}<br>
 <strong>Faculty supervisor(s):</strong> {{ page.faculty }}
 
-{{ content }}
-
 {%- assign poster_file = page.path | split: "/" | pop | pop | join: "/" | append: "/images/" | append: page.poster_file -%}
 <a href="{{ poster_file | append: ".pdf" | relative_url }}" target="_blank"><img src="{{ poster_file | append: ".png" | relative_url }}" alt="poster thumbnail"></a>
 
