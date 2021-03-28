@@ -7,40 +7,34 @@ posters:
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
 ---
-<div align="left">
-  <h3>✨ Poster Submission Instructions ✨</h3>
+### ✨ Poster Submission Instructions ✨
 
 Please follow instructions in <a href="https://ggc-stars.github.io/stars2021/update/2021/03/07/poster-submission-instructions.html"> this post </a> to submit your posters.
-</div>
 
-<div align="left">
-  <h3>✨ Poster Judging Information ✨</h3>
+### ✨ Poster Judging Information ✨
 
 Posters will be judged according to criteria posted <a href="https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html">here</a>.
-<br>
-Note: <b>Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.</b>
-</div>
 
-<div align="left">
-  <h3>✨ STaRS 2021 Posters (Example) ✨</h3>
+Note: <b>Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.</b>
+
+### ✨ STaRS 2021 Posters for Judging ✨
 
 <div class="page-segments">
     <ul class="page-segments-list">
-        {% assign items = site.categories.stars2021 | where_exp: "post", 'post.categories[1] == "posters" ' %}
-        {% for item in items %}
-            {% if item != nil %}
-            <li> {% include views/post-item.html %} </li>
-            {% endif %}
-        {% endfor %}
-    </ul>
-</div>
-</div>
+    {% for poster in site.data.stars2021.posters %}
+        <li>
+            <span class="post-meta">{{ poster["students"] }} - supervised by {{ poster["faculty"] }}</span><br>
+            <span>
+                <a class="post-link" href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}">
+                {{ poster["Poster title"] | escape }}
+                </a>
+            </span><br>
+            <span class="post-excerpt">{{ poster["tags"] }}</span>
 
-<ul>
-{% for poster in site.data.stars2021.posters %}
-  <li><a href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}">{{poster["Poster title"]}}</a></li>
-{% endfor %}
+        </li>
+    {% endfor %}
 </ul>
+</div>
 ---
 
 
