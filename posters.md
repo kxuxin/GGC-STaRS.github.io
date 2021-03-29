@@ -26,7 +26,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
         <li style="list-style-type: 'P{{ poster["Poster #"] }}. '">
             <span class="post-meta">{{ poster["students"] }} - supervised by {{ poster["faculty"] }}</span><br>
             <span>
-                <a class="post-link" href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}.html">
+                <a class="post-link" href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}">
                 {{ poster["Poster title"] | escape }}
                 </a>
             </span><br>
@@ -40,7 +40,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
         <li style="list-style-type: 'P{{ poster["Poster #"] }}. '">
             <span class="post-meta">{{ poster["students"] }} - supervised by {{ poster["faculty"] }}</span><br>
             <span>
-                <a class="post-link" href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}.html">
+                <a class="post-link" href="{{ poster["Poster title"] | datapage_url: '/stars2021/posters' }}">
                 {{ poster["Poster title"] | escape }}
                 </a>
             </span><br>

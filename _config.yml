@@ -61,7 +61,7 @@ defaults:
 night_mode: "manual"
 
 # Page generation from posters
-page_gen-dirs: true
+page_gen-dirs: false
 
 page_gen:
   - data: stars2021.posters
