@@ -7,6 +7,14 @@ layout: post
 <strong>Faculty supervisor(s):</strong> {{ page.faculty }}
 
 <p>
+  {% if page["Zoom link"] %}
+  <a href='{{ page["Zoom link"] }}' target="_blank">Live video link</a> (only available during event time - check your local sources for password)
+  {% else %}
+  No live video link yet.
+  {% endif %}
+</p>
+
+<p>
 {% if page["Poster filename"] %}
 {%- assign poster_file = page.path | split: "/" | pop | pop | join: "/" | append: "/images/" | append: page.poster_file -%}
 <a href="{{ poster_file | append: ".pdf" | relative_url }}" target="_blank"><img src="{{ poster_file | append: ".png" | relative_url }}" alt="poster thumbnail"></a>
