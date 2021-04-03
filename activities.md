@@ -28,10 +28,4 @@ permalink: /activities/
 * School of Health Sciences - Live link
 * Bookstore - Live link
 
-<b>To register your institution, visit this</b> <a href="https://georgia-gwinnett-college-foundation-inc.square.site/product/grad-professional-other-attendee/38?cs=true&cst=custom">link</a>. 
- [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf)
- [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf)
-
-
-
 
