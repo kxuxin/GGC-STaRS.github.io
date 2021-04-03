@@ -6,7 +6,7 @@ permalink: /activities/
 
 <h3>✨STaRS Activities✨</h3>
 
-🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
+🔥🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
    
 #### * Peer Supplemental Instruction (PSI) 
 Live link Time: 2pm - 3pm
