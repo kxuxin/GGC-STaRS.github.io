@@ -30,7 +30,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 -->
 ### ✨ STaRS 2021 Posters ✨
 
-🔥🔥 **NOTE: Links are only available during event time - check your local sources for password** 🔥🔥
+🔥🔥 **NOTE: Links are only available during event time - check your GGC email for password** 🔥🔥
 
 <div class="page-segments">
     <ul class="page-segments-list">
