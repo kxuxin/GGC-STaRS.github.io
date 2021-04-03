@@ -8,10 +8,18 @@ permalink: /activities/
 
 **NOTE: Links are only available during event time - check your local sources for password**
    
-* Philadelphia College of Osteopathic Medicine 
-* [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf)
-* Mercer University 
-* UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf)
+* Peer Supplemental Instruction (PSI) - Live link 
+* MATH club - Live link 
+* [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AALS-Flyer.pdf) - Live link 
+* Implementing a Data Science and Analytics Concentration at GGC - Live link 
+* Electromagnets - Live link 
+* Fun Computer Games - Live link 
+* Vector Animation Demos - Live link
+* Building our own computer cloud from discarded hardware - Live link
+* Neurons in Action - Live link
+* Grizzly Hacks Coding Challenge - Live link
+* Grizzlies On Air radio station - Live link
+* What do mathematicians research? - Live link
 
 <h3>✨GGC Support Services & Programs✨</h3>
 
