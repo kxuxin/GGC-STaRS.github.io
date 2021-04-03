@@ -8,16 +8,18 @@ permalink: /activities/
 
 **NOTE: Links are only available during event time - check your local sources for password**
    
-A1. <h4> Peer Supplemental Instruction (PSI) </h4>
+#### * Peer Supplemental Instruction (PSI) 
 Live link Time: 2pm - 3pm
-A2. <h4> MATH club </h4>
+#### * MATH club 
 Live link Time: 2pm - 3pm
-A3. <h4> [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website) </h4>, [flyer](/stars2021/images/AARLS-flyer.pdf) 
+#### * [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-flyer.pdf) 
 Live link Time: 2pm - 3pm
-A4. <h4> Electromagnets </h4> 
+#### * Electromagnets 
 Live link Time: 2pm - 3pm
 _Physics students have built electromagnets at home with nails, magnet wire and batteries.   The electromagnets varied in diameter, length and number of turns.  The maximum force of each electromagnet was measured by how many chained paperclips could be lifted._
-* Fun Computer Games - Live link - _Students in ITEC 3450, Computer Graphic and Multimedia, create some fun computer games using the Processing language. This is one of their class projects. This project engages students in learning basic concepts and algorithms covered in the course and help them improve their programming skills._
+#### * Fun Computer Games 
+Live link - Time: 2pm - 3pm
+_Students in ITEC 3450, Computer Graphic and Multimedia, create some fun computer games using the Processing language. This is one of their class projects. This project engages students in learning basic concepts and algorithms covered in the course and help them improve their programming skills._
 * Vector Animation Demos - Live link - _Students in ITEC 2110, Digital Media, use Adobe Illustrator and Adobe Photoshop together to create vector animations. Each frame of the animation is a vector image. This is one of their class projects. Through this project, students learn basic concepts of digital images and how to use Adobe applications to create good quality vector animations._
 * Building our own computer cloud from discarded hardware - Live link - _In-person demonstration at the H-1209 network lab, or virtual tour of the computer cloud that we constructed._
 * Neurons in Action - Live link - _An interactive tutorial session teaching students about computational neuroscience and simulating neurons on a computer._
