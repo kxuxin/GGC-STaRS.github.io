@@ -6,7 +6,7 @@ permalink: /gradschools/
 
 <h2> STaRS Graduate & Professional School Fair</h2>
 
-🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
+🔥🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
 
 <h3>✨Graduate Schools participants✨</h3>
    
