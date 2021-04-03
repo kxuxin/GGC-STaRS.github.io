@@ -10,7 +10,7 @@ permalink: /activities/
    
 * Peer Supplemental Instruction (PSI) - Live link 
 * MATH club - Live link 
-* [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AALS-Flyer.pdf) - Live link 
+* [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-flyer.pdf) - Live link 
 * Implementing a Data Science and Analytics Concentration at GGC - Live link 
 * Electromagnets - Live link 
 * Fun Computer Games - Live link 
