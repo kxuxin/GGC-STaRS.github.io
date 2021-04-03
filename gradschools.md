@@ -6,13 +6,14 @@ permalink: /gradschools/
 
 <h2> STaRS Graduate & Professional School Fair</h2>
 
+**NOTE: Links are only available during event time - check your local sources for password**
 
 <h3>✨Graduate Schools participants✨</h3>
    
-* Philadelphia College of Osteopathic Medicine 
-* [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf)
-* Mercer University 
-* UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf)
+* Philadelphia College of Osteopathic Medicine - Live link
+* [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) - Live link
+* Mercer University - Live link
+* UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) - Live link
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
