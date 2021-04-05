@@ -13,7 +13,7 @@ Live link Time: 2pm - 3pm
 #### * MATH club 
 Live link Time: 2pm - 3pm
 #### * [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-flyer.pdf) 
-Live link Time: 2pm - 3pm
+Live link Time: noon - 3pm
 #### * Electromagnets 
 Live link Time: 2pm - 3pm
 
