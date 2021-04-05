@@ -8,7 +8,24 @@ posters:
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
 ---
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+ <style>
+    .blue-tag {
+        color: #fff !important;
+        border-radius: 4px;
+        background-color: #2196F3 !important;
+        padding-left: 8px;
+        padding-right: 8px;
+        text-align: center;
+    }
+    .red-tag {
+        color: #fff !important;
+        border-radius: 4px;
+        background-color: #f44336 !important;
+        padding-left: 8px;
+        padding-right: 8px;
+        text-align: center;
+    }
+ </style>
  
 <!-- ### ✨ Poster Submission Instructions ✨
 
@@ -38,10 +55,10 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
             <span class="post-excerpt">
                 {% for tag in tag_list %}
                 {% assign naked_tag = tag | strip %}
-                    <span class="w3-tag w3-round w3-blue">{{ site.subject_emojis[naked_tag] }}</span>
+                    <span class="blue-tag">{{ site.subject_emojis[naked_tag] }}</span>
                 {% endfor %}
                     {% if poster["Judged?"] == "Yes" %}
-                        <span class="w3-tag w3-round w3-red">Competing 🏃‍♂️ </span>
+                        <span class="red-tag">Competing 🏃‍♂️ </span>
                     {% endif %}
             </span>
         </li>
