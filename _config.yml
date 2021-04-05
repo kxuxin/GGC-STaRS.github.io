@@ -67,8 +67,8 @@ page_gen:
     template: 'poster'
     dir: '/stars2021/posters'
     index_files: false
-    name: "Poster title"
-    title: "Poster title"
+    name: "group"
+    title: "group"
     debug: false
 
 # Build settings
