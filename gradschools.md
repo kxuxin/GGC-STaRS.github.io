@@ -11,16 +11,16 @@ permalink: /gradschools/
 <h3>✨Graduate Schools participants✨</h3>
    
 #### * Philadelphia College of Osteopathic Medicine
-Live link Time: 2pm - 3pm
+Live link Time: noon - 3pm
 
 #### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) 
-Live link Time: 2pm - 3pm
+Live link Time: noon - 3pm
 
 #### * Mercer University 
-Live link Time: 2pm - 3pm
+Live link Time: noon - 3pm
 
 #### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
-Live link Time: 2pm - 3pm
+Live link Time: noon - 3pm
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
