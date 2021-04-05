@@ -1,12 +1,25 @@
 ---
 layout: post
 ---
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+
+{% assign tag_list = page["subject"] | split: "," %}
+<span class="post-excerpt">
+  {% for tag in tag_list %}
+  {% assign naked_tag = tag | strip %}
+  <span class="w3-tag w3-round w3-blue">{{ site.subject_emojis[naked_tag] }}</span>
+  {% endfor %}
+  {% if page["Judged?"] == "Yes" %}
+  <span class="w3-tag w3-round w3-red">Competing 🏃‍♂️ </span>
+  {% endif %}
+</span>
+
 <p><strong>Student(s):</strong> {{ page.students }}<br>
 <strong>Faculty supervisor(s):</strong> {{ page.advisor }}
 
 <p>
   {% if page["Zoom link"] %}
-  <a href='{{ page["Zoom link"] }}' target="_blank">Live video link</a> (only available during event time - check your local sources for password)
+  <a href='{{ page["Zoom link"] }}' target="_blank">Live video link</a> (only available during event time - check your GGC email for password)
   {% else %}
   No live video link yet.
   {% endif %}

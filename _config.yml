@@ -71,6 +71,15 @@ page_gen:
     title: "group"
     debug: false
 
+subject_emojis:
+    Information Technology: IT 💾
+    Biology: Biology 🧬
+    Chemistry: Chemistry 🧪
+    Environmental Science: Environmental Science 🌎
+    Physics: Physics 💥
+    Mathematics: Mathematics Σ
+    Regents Engineering Pathway: "Regents' Engineering Pathway 🔧"
+
 # Build settings
 markdown: kramdown
 #theme: minima

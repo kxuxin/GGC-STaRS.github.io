@@ -3,14 +3,6 @@ layout: about
 title: Posters
 permalink: /posters/
 posters:
-tag_emojis:
-    Information Technology: IT 💾
-    Biology: Biology 🧬
-    Chemistry: Chemistry 🧪
-    Environmental Science: Environmental Science 🌎
-    Physics: Physics 💥
-    Mathematics: Mathematics Σ
-    Regents Engineering Pathway: "Regents' Engineering Pathway 🔧"
     
 # use categories for stars2021 and posters/activities/etc
 # and use tags for discipline (so it can have multiple)
@@ -46,7 +38,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
             <span class="post-excerpt">
                 {% for tag in tag_list %}
                 {% assign naked_tag = tag | strip %}
-                    <span class="w3-tag w3-round w3-blue">{{ page.tag_emojis[naked_tag] }}</span>
+                    <span class="w3-tag w3-round w3-blue">{{ site.subject_emojis[naked_tag] }}</span>
                 {% endfor %}
                     {% if poster["Judged?"] == "Yes" %}
                         <span class="w3-tag w3-round w3-red">Competing 🏃‍♂️ </span>
