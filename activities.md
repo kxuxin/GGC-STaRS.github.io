@@ -56,7 +56,7 @@ This research will explain rationale and justification for the implementation of
 #### * Kaufman Library 
 [Live link](https://ggc-edu.zoom.us/j/98199772845) Time: 2pm - 3pm
 
-#### * Academic Enhancement Center (AUC)
+#### * Academic Enhancement Center (AEC)
 [Live link](https://ggc-edu.zoom.us/j/94051452456) Time: 2pm - 3pm
 
 #### * School of Health Sciences 
