@@ -22,9 +22,11 @@ permalink: /gradschools/
 #### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
 [Live link](https://ggc-edu.zoom.us/j/97681899510) Time: noon - 3pm
 
-#### * UGA [Center for Tropical Global and Emerging Diseases](https://training.ctegd.uga.edu/)
-Live link Time: noon - 1pm
+#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/)
+[Live link](https://ggc-edu.zoom.us/j/94875286625) Time: noon - 1pm
 
+#### * Morehouse School of Medicine
+[Live link](https://ggc-edu.zoom.us/j/97878317608) Time: noon - 3pm
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
