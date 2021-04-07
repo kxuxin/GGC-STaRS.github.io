@@ -10,8 +10,6 @@ permalink: /activities/
    
 #### * Peer Supplemental Instruction (PSI) 
 [Live link](https://ggc-edu.zoom.us/j/94831333393) Time: 2pm - 3pm
-#### * MATH club 
-[Live link](https://ggc-edu.zoom.us/j/94875286625) Time: 2pm - 3pm
 #### * [UGA Advocates for Anti-racism in Life Sciences (AALS)](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-STARS.pdf) 
 [Live link](https://ggc-edu.zoom.us/j/98663598491) Time: 2pm - 3pm
 #### * Electromagnets 
