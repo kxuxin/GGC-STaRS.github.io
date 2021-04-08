@@ -11,7 +11,7 @@ permalink: /gradschools/
 <h3>✨Graduate Schools participants✨</h3>
    
 #### * Philadelphia College of Osteopathic Medicine
-[Live link](https://ggc-edu.zoom.us/j/96329793163) Time: noon - 3pm
+[Live link](https://ggc-edu.zoom.us/j/96329793163) Time: 1pm - 3pm
 
 #### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) 
 [Live link](https://ggc-edu.zoom.us/j/93140392715) Time: noon - 3pm
