@@ -41,7 +41,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 
 ### Important! If you are the presenter, please [join the lobby](https://ggc-edu.zoom.us/j/94859760946) first in order to start the zoom live event  
 
-🔥🔥 **NOTE: Links are only available during event time - check your GGC email for password** 🔥🔥
+🔥🔥 **NOTE: IMPORTANT Update - live links are down, please join the lobby and go to the breakout room corresponding to your poster number** 🔥🔥
 
 <div class="page-segments">
     <ul class="page-segments-list">
