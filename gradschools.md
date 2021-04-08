@@ -10,23 +10,23 @@ permalink: /gradschools/
 
 <h3>✨Graduate Schools participants✨</h3>
    
-#### * Philadelphia College of Osteopathic Medicine
-[Live link](https://ggc-edu.zoom.us/j/96329793163) Time: 1pm - 3pm
+#### * Philadelphia College of Osteopathic Medicine - Breakout room #1
+ Time: 1pm - 3pm
 
-#### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) 
-[Live link](https://ggc-edu.zoom.us/j/93140392715) Time: noon - 3pm
+#### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) - Breakout room #2
+ Time: noon - 3pm
 
-#### * Mercer University 
-[Live link](https://ggc-edu.zoom.us/j/91806181963) Time: noon - 3pm
+#### * Mercer University - Breakout room #3
+ Time: noon - 3pm
 
-#### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
-[Live link](https://ggc-edu.zoom.us/j/97681899510) Time: noon - 3pm
+#### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) - Breakout room #4
+ Time: noon - 3pm
 
-#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/)
-[Live link](https://ggc-edu.zoom.us/j/94875286625) Time: noon - 1pm
+#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/) - Breakout room #5
+ Time: noon - 1pm
 
-#### * Morehouse School of Medicine
-[Live link](https://ggc-edu.zoom.us/j/97878317608) Time: noon - 3pm
+#### * Morehouse School of Medicine - Breakout room #6
+ Time: noon - 3pm
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
