@@ -44,10 +44,7 @@ Grizzlies On Air is a culmination of research involving a student focused radio 
 [Live link](https://ggc-edu.zoom.us/j/93110947932) Time: 1pm - 3pm 
 
 We will have presentations by GGC math major students on their current or previous undergraduate research. We will also have panel discussions on the experience of being a math major and career opportunities for math majors.
-#### * Implementing a Data Science and Analytics Concentration at GGC  
-[Live link](https://ggc-edu.zoom.us/j/95104013486) Time: 1pm - 2pm
 
-This research will explain rationale and justification for the implementation of  a Data Science and Analytics (DSA) concentration within ITEC at Georgia Gwinnett College. It will further demonstrate how the DSA  curricula map is developed, and how it relates to the significance of providing DSA students with the pedagogy that pertains to their successful careers in Analytics and Big Data Science.
 
 <h3>✨GGC Support Services & Programs✨</h3>
 
@@ -55,7 +52,7 @@ This research will explain rationale and justification for the implementation of
 [Live link](https://ggc-edu.zoom.us/j/98199772845) Time: 2pm - 3pm
 
 #### * Academic Enhancement Center (AEC)
-[Live link](https://ggc-edu.zoom.us/j/94051452456) Time: 2pm - 3pm
+[Live link](https://ggc-edu.zoom.us/j/94051452456) Time: noon - 3pm
 
 #### * School of Health Sciences 
 [Live link](https://ggc-edu.zoom.us/j/91639548471) Time: 2pm - 3pm
