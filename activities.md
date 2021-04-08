@@ -27,7 +27,7 @@ Students in ITEC 3450, Computer Graphic and Multimedia, create some fun computer
 
 Students in ITEC 2110, Digital Media, use Adobe Illustrator and Adobe Photoshop together to create vector animations. Each frame of the animation is a vector image. This is one of their class projects. Through this project, students learn basic concepts of digital images and how to use Adobe applications to create good quality vector animations.
 #### * Building our own computer cloud from discarded hardware - Breakout room #43
- Time: 1pm - 3pm
+ Time: 2pm - 3pm
 
 In-person demonstration at the H-1209 network lab, or virtual tour of the computer cloud that we constructed.
 #### * Neurons in Action - Breakout room #44
