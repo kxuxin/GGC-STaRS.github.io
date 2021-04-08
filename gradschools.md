@@ -6,7 +6,7 @@ permalink: /gradschools/
 
 <h2> STaRS Graduate & Professional School Fair</h2>
 
-### Important! To join a poster session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room as indicated below
+### Important! To join a session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room as indicated below
 
 🔥🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
 

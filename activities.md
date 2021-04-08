@@ -4,6 +4,8 @@ title: Activities
 permalink: /activities/
 ---
 
+### Important! To join a session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room as indicated below
+
 <h3>✨STaRS Activities✨</h3>
 
 🔥🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
