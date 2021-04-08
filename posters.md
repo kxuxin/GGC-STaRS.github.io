@@ -39,7 +39,7 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 -->
 ### ✨ STaRS 2021 Posters ✨
 
-### Important! If you are the presenter, please [join the lobby](https://ggc-edu.zoom.us/j/94859760946) first in order to start the zoom live event  
+### Important! To join a poster session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room based on poster number
 
 🔥🔥 **NOTE: IMPORTANT Update - live links are down, please join the lobby and go to the breakout room corresponding to your poster number** 🔥🔥
 
