@@ -12,7 +12,7 @@ permalink: /gradschools/
 
 <h3>✨Graduate Schools participants✨</h3>
    
-#### * Philadelphia College of Osteopathic Medicine - Breakout room #45
+#### * Philadelphia College of Osteopathic Medicine - Breakout room #16
  Time: 1pm - 3pm
 
 #### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) - Breakout room #46

@@ -34,7 +34,7 @@ In-person demonstration at the H-1209 network lab, or virtual tour of the comput
 [Live link](https://ggc-edu.zoom.us/j/96010540764) Time: 2pm - 3pm
 
 An interactive tutorial session teaching students about computational neuroscience and simulating neurons on a computer.
-#### * Grizzly Hacks Coding Challenge 
+#### * Grizzly Hacks Coding Challenge  - Breakout room #6
  Time: noon - 2pm 
 
 Grizzly Hacks is a GGC student organization to promote coding activities on and off campus. We plan to hold a virtual activity that will include a training, followed by a hands-on coding challenge.
