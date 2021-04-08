@@ -42,7 +42,7 @@ Grizzly Hacks is a GGC student organization to promote coding activities on and 
  Time: noon - 1pm
 
 Grizzlies On Air is a culmination of research involving a student focused radio station on the GGC campus.  Students will present their needs assessment, goals, vision, objectives, model design, marketing plan, and intervention strategy.
-#### * What do mathematicians research? 
+#### * What do mathematicians research? - Breakout room #38
  Time: 1pm - 3pm 
 
 We will have presentations by GGC math major students on their current or previous undergraduate research. We will also have panel discussions on the experience of being a math major and career opportunities for math majors.
@@ -53,7 +53,7 @@ We will have presentations by GGC math major students on their current or previo
 #### * Kaufman Library 
  Time: 2pm - 3pm
 
-#### * Academic Enhancement Center (AEC)
+#### * Academic Enhancement Center (AEC) - Breakout room #40
  Time: noon - 3pm
 
 #### * School of Health Sciences 

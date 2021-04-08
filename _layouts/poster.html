@@ -34,13 +34,15 @@ layout: post
 <p><strong>Student(s):</strong> {{ page.students }}<br>
 <strong>Faculty supervisor(s):</strong> {{ page.advisor }}
 
-<p>
+<p>To join the session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room {{ page.id }}
+
+<!--p>
   {% if page["Zoom link"] %}
   <a href='{{ page["Zoom link"] }}' target="_blank">Live video link</a> (only available during event time - check your GGC email for password)
   {% else %}
   No live video link yet.
   {% endif %}
-</p>
+</p-->
 
 <p>
 {% if page["Kaltura video"] %}
