@@ -38,7 +38,7 @@ An interactive tutorial session teaching students about computational neuroscien
  Time: noon - 2pm 
 
 Grizzly Hacks is a GGC student organization to promote coding activities on and off campus. We plan to hold a virtual activity that will include a training, followed by a hands-on coding challenge.
-#### * Grizzlies On Air radio station  
+#### * Grizzlies On Air radio station - cancelled
  Time: noon - 1pm
 
 Grizzlies On Air is a culmination of research involving a student focused radio station on the GGC campus.  Students will present their needs assessment, goals, vision, objectives, model design, marketing plan, and intervention strategy.
