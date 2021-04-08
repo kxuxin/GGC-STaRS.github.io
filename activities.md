@@ -50,16 +50,16 @@ We will have presentations by GGC math major students on their current or previo
 
 <h3>✨GGC Support Services & Programs✨</h3>
 
-#### * Kaufman Library  - Breakout room #49
+#### * Kaufman Library  - Breakout room #1
  Time: 2pm - 3pm
 
 #### * Academic Enhancement Center (AEC) - Breakout room #40
  Time: noon - 3pm
 
-#### * School of Health Sciences  - Breakout room #1
+#### * School of Health Sciences  - Breakout room #6
  Time: 2pm - 3pm
 
-#### * Bookstore 
+#### * Bookstore - Breakout room #49
  Time: 2pm - 3pm
 
 
