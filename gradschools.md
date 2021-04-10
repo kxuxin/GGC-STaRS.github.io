@@ -6,29 +6,19 @@ permalink: /gradschools/
 
 <h2> STaRS Graduate & Professional School Fair</h2>
 
-### Important! To join a session, [join the lobby](https://ggc-edu.zoom.us/j/94859760946) and then choose a breakout room as indicated below
-
-🔥🔥 **NOTE: Links are only available during event time. Check your GGC email for password** 🔥
-
 <h3>✨Graduate Schools participants✨</h3>
    
-#### * Philadelphia College of Osteopathic Medicine - Breakout room #16
- Time: 1pm - 3pm
+#### * Philadelphia College of Osteopathic Medicine 
 
-#### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) - Breakout room #46
- Time: noon - 3pm
+#### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf) 
+ 
+#### * Mercer University 
 
-#### * Mercer University - Breakout room #47
- Time: noon - 3pm
+#### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
 
-#### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) - Breakout room #48
- Time: noon - 3pm
+#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/) 
 
-#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/) - Breakout room #49
- Time: noon - 1pm
-
-#### * Morehouse School of Medicine - Breakout room #50
- Time: noon - 3pm
+#### * Morehouse School of Medicine 
 
 <h3>✨Call for Graduate Schools participation✨</h3>
 
