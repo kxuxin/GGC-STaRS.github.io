@@ -6,7 +6,7 @@ permalink: /activities/
 
 <h3>✨STaRS Activities✨</h3>
 
-🔥🔥 **THANK YOU to all participating programs, centers, services and RSOs! ** 🔥🔥
+👏👏THANK YOU to all participating programs, centers, services and RSOs! 👏👏
    
 #### * Peer Supplemental Instruction (PSI) 
 #### * [UGA STEM Graduate Student Panel](https://aarlifesci.wixsite.com/website), [flyer](/stars2021/images/AARLS-STARS.pdf) 
