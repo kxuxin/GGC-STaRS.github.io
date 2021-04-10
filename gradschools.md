@@ -6,6 +6,8 @@ permalink: /gradschools/
 
 <h2> STaRS Graduate & Professional School Fair</h2>
 
+👏👏THANK YOU to all participating graduate programs! 👏👏
+
 <h3>✨Graduate Schools participants✨</h3>
    
 #### * Philadelphia College of Osteopathic Medicine 
