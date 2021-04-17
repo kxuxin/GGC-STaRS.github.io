@@ -36,8 +36,15 @@ Please follow instructions in <a href="https://ggc-stars.github.io/stars2021/upd
 Posters will be judged according to criteria posted <a href="https://ggc-stars.github.io/stars2021/update/2021/03/09/rubrics-feedback-posters.html">here</a>.
 
 Note: <b>Live presentations of posters are preferred over pre-recorded videos of posters. Submissions with only pre-recorded videos get 1 pt deduction from final score.</b>
--->
+
 ### ✨ STaRS 2021 Posters ✨
+
+👏👏THANK YOU to all participating students and faculty! 👏👏
+-->
+
+### ✨ STaRS 2021 Poster Competition Winners✨
+
+🔥🔥🔥 Congratulations to our top 3 winners and all honorable mentions that scored within 3 points from the podium.🔥🔥🔥
 
 👏👏THANK YOU to all participating students and faculty! 👏👏
 
