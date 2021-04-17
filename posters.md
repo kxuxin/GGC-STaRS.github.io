@@ -48,6 +48,14 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 
 👏👏THANK YOU to all participating students and faculty! 👏👏
 
+🥇
+
+🥈
+
+🥉
+
+
+
 <div class="page-segments">
     <ul class="page-segments-list">
     {% for poster in site.data.stars2021.posters %}
