@@ -79,6 +79,10 @@ subject_emojis:
     Physics: Physics 💥
     Mathematics: Mathematics Σ
     Regents Engineering Pathway: "Regents' Engineering Pathway 🔧"
+    1st_place: 1st PLACE 🥇
+    2nd_place: 2nd PLACE 🥈
+    3rd_place: 3rd PLACE 🥉
+    Honorable Mention: Honorable Mention 🏅
 
 # Build settings
 markdown: kramdown

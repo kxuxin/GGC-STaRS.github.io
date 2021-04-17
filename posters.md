@@ -48,14 +48,6 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 
 👏👏THANK YOU to all participating students and faculty! 👏👏
 
-🥇
-
-🥈
-
-🥉
-
-
-
 <div class="page-segments">
     <ul class="page-segments-list">
     {% for poster in site.data.stars2021.posters %}
@@ -70,9 +62,14 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
             <span class="post-excerpt">
                 {% for tag in tag_list %}
                 {% assign naked_tag = tag | strip %}
-                    <span class="blue-tag">{{ site.subject_emojis[naked_tag] }}</span>
+                    {% if tag contains "place" or tag contains "Honorable" %}
+                        <span class="red-tag">{{ site.subject_emojis[naked_tag] }}</span>
+                    {% else %}
+                        <span class="blue-tag">{{ site.subject_emojis[naked_tag] }}</span>
+                    {% endif %}
                 {% endfor %}
-                    {% if poster["Judged?"] == "Yes" %}
+                    {% assign score = poster["Judge score"] | round %}
+                    {% if score > 1000 and poster["Judged?"] == "Yes" %}
                         <span class="red-tag">Competing 🏃‍♂️ </span>
                     {% endif %}
             </span>
