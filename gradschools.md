@@ -13,7 +13,8 @@ permalink: /gradschools/
 #### * Philadelphia College of Osteopathic Medicine 
 
 #### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf). 
-![](https://www.youtube.com/watch?v=_4cp5mNiUyE) 
+
+![](//www.youtube.com/watch?v=_4cp5mNiUyE) 
  
 #### * Mercer University 
 
