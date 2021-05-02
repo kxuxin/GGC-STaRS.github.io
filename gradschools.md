@@ -4,27 +4,31 @@ title: Graduate Schools
 permalink: /gradschools/
 ---
 
-<h2> STaRS Graduate & Professional School Fair</h2>
+## STaRS Graduate & Professional School Fair
 
 👏👏THANK YOU to all participating graduate programs! 👏👏
 
-<h3>✨Graduate Schools participants✨</h3>
+### ✨Graduate Schools participants✨
    
-#### * Philadelphia College of Osteopathic Medicine 
+#### Philadelphia College of Osteopathic Medicine 
 
-#### * [Kennesaw State University](https://msit.kennesaw.edu/). [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf). 
+#### [Kennesaw State University](https://msit.kennesaw.edu/)
+
+- [MSIT flyer](/stars2021/images/MSIT-Flyer.pdf)
 
 ![](//www.youtube.com/watch?v=_4cp5mNiUyE) 
  
-#### * Mercer University 
+#### Mercer University 
 
-#### * UGA College of Pharmacy. [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
+#### UGA College of Pharmacy
 
-#### * UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/) 
+- [Graduate Program Decider](/stars2021/images/uga-gradprogramsdecider.pdf) 
 
-#### * Morehouse School of Medicine 
+#### UGA [Center for Tropical Emerging and Global Diseases](https://training.ctegd.uga.edu/) 
 
-<h3>✨Call for Graduate Schools participation✨</h3>
+#### Morehouse School of Medicine 
+
+### ✨Call for Graduate Schools participation✨
 
 One of the main attractions for our undergraduates attending STaRS is the **Graduate and Professional School Fair** in which representatives from regional graduate and professional schools provide admissions and program information for students who seek to submit competitive applications.  Many of our students pursue post-graduate degrees after GGC, and we believe that they will be excited to hear about the Graduate Programs offered at your institution. Although the format will be a little different this year due to the current pandemic, this offers a unique opportunity to host representatives that would otherwise be limited by geographical distance.
 

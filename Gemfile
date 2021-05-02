@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   # For converting data files to pages
   gem "jekyll-datapage-generator"
+  gem "jekyll-spaceship"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
