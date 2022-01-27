@@ -1,7 +1,7 @@
 ---
 layout: framework
 sidebar: category-list
-heading: "STaRS 2021 is virtual on April 8, noon-3pm"
+heading: "STaRS 2022 is on April 14th, 10AM-3pm"
 subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
 banner: "/assets/images/stars-logo-green-right3.png"
 ---
@@ -16,7 +16,7 @@ banner: "/assets/images/stars-logo-green-right3.png"
   {% assign posts_no_posters = site.categories.stars2021 |
   where_exp: "post", "post.categories != 'posters'" |
   where_exp: "post", "post.categories[0] != 'posters'" |
-  where_exp: "post", "post.categories[1] != 'posters'" 
+  where_exp: "post", "post.categories[1] != 'posters'"
   %}
   {% include views/pagination2.html paginator=posts_no_posters %}
 </div>
