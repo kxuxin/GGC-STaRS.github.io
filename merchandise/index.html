@@ -20,7 +20,7 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="Merchandise">
 <script type="application/ld+json">
-{"@type":"WebPage","url":"/merchandise/","headline":"Merchandise","author":{"@type":"Person","name":"STaRS IT subcommittee"},"description":"Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"/merchandise/","author":{"@type":"Person","name":"STaRS IT subcommittee"},"headline":"Merchandise","description":"Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="shortcut icon" href="">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -143,6 +143,110 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <header class="site-header " role="banner">
 
   <div class="wrapper">
@@ -162,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
           </label>
 
           <div class="trigger">
-<a class="page-link" href="/about/">ABOUT</a><a class="page-link" href="/posters/">POSTERS</a><a class="page-link" href="/activities/">ACTIVITIES</a><a class="page-link" href="/gradschools/">GRADUATE SCHOOLS</a><a class="page-link" href="/tshirtcontest/font-size:4em;">T-SHIRT CONTEST</a>
+<a class="page-link" href="/about/">ABOUT</a><a class="page-link" href="/posters/">POSTERS</a><a class="page-link" href="/activities/">ACTIVITIES</a>
 
 
 
@@ -174,7 +278,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 </header>
 
 <script>
-  (function() {
+  function initHeader() {
     var lastScrollY = getScrollPos().y;
     var documentElement = document.documentElement;
 
@@ -199,8 +303,111 @@ document.addEventListener('DOMContentLoaded', function(event) {
     });
 
     storeScrollData();
-  })();
+  }
+  document.addEventListener('DOMContentLoaded', initHeader);
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,6 +453,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 <script>
   function hashLocate(hashValue) {
     hashValue = hashValue.replace(/^.*#h-/, '');
+    hashValue = decodeURIComponent(hashValue);
     var element = document.getElementById(hashValue);
 
     if (!element) {
@@ -564,7 +772,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   <div class="wrapper">
     <div class="site-footer-inner">
-      <div>Copyright © 2021 @STaRS IT subcommittee</div>
+<div>Copyright © 2021</div>
       <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="http://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
