@@ -1,9 +1,9 @@
 ---
 layout: about
-title: Posters
+title: 2021 Posters
 permalink: /posters/
 posters:
-    
+
 # use categories for stars2021 and posters/activities/etc
 # and use tags for discipline (so it can have multiple)
 # go through tags in this page? or show tags next to title?
@@ -26,7 +26,7 @@ posters:
         text-align: center;
     }
  </style>
- 
+
 <!-- ### ✨ Poster Submission Instructions ✨
 
 Please follow instructions in <a href="https://ggc-stars.github.io/stars2021/update/2021/03/07/poster-submission-instructions.html"> this post </a> to submit your posters.
@@ -77,6 +77,3 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
     {% endfor %}
 </ul>
 </div>
-
-
-

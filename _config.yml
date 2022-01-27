@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to STaRS 2021 @ GGC!
+title: Welcome to STaRS 2022 @ GGC!
 email: adolocmihu@ggc.edu
 author: STaRS IT subcommittee
-copyright: Copyright © 2021
+copyright: Copyright © 2022
 description: >- # this means to ignore newlines until "baseurl:"
   Georgia Gwinnett College yearly event Science Technology and Reseach Symposium (STaRS)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,10 +29,10 @@ header_pages:
   - index.html
   - about.md
   - posters.md
-  - activities.md
-  - sponpors.md
-#  - gradschools.md
-#  - tshirtcontest.md
+  #- activities.md
+  #- sponpors.md
+  #- gradschools.md
+  #- tshirtcontest.md
 #  - merchandise.md
 
 #   - archives.html
@@ -42,7 +42,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-      heading: "STaRS 2022 is on April 14th, 10 AM-3pm"
+      heading: "STaRS 2022 is on April 14th, 10am-3pm"
       subheading: "Welcome to the Science Technology and Research Symposium (STaRS) organized by the School of Science and Technology at Georgia Gwinnett College"
       banner: "/assets/images/stars-logo-green-right.png"
 
@@ -65,7 +65,7 @@ page_gen-dirs: false
 page_gen:
   - data: stars2021.posters
     template: 'poster'
-    dir: '/stars2021/posters'
+    dir: '/stars2022/posters'
     index_files: false
     name: "group"
     title: "group"
