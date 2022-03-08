@@ -48,15 +48,17 @@ Note: <b>Live presentations of posters are preferred over pre-recorded videos of
 
 👏👏THANK YOU to all participating students and faculty! 👏👏
 
+[Here are the posters from 2021!](https://github.com/GGC-STaRS/GGC-STaRS.github.io/tree/master/stars2021/posters/images)
+
 <div class="page-segments">
     <ul class="page-segments-list">
     {% for poster in site.data.stars2021.posters %}
         <li style="list-style-type: 'P{{ poster["id"] }}. '">
             <span class="post-meta">{{ poster["students"] }} - supervised by {{ poster["advisor"] }}</span><br>
             <span>
-                <a class="post-link" href="{{ poster["group"] | datapage_url: '/stars2021/posters' }}">
+                <!-- <a class="post-link" href="{{ poster["group"] | datapage_url: '/stars2021/posters' }}">
                 {{ poster["group"] | escape }}
-                </a>
+                </a> -->
             </span><br>
             {% assign tag_list = poster["subject"] | split: "," %}
             <span class="post-excerpt">
