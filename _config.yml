@@ -65,7 +65,7 @@ page_gen-dirs: false
 page_gen:
   - data: stars2021.posters
     template: 'poster'
-    dir: '/stars2022/posters'
+    dir: '/stars2021/posters'
     index_files: false
     name: "group"
     title: "group"
