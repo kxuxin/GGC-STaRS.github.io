@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+baseurl: /stars2021
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -65,7 +66,7 @@ page_gen-dirs: false
 page_gen:
   - data: stars2021.posters
     template: 'poster'
-    dir: '/stars2021/posters'
+    dir: '/posters'
     index_files: false
     name: "group"
     title: "group"
