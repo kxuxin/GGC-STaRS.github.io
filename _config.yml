@@ -29,13 +29,14 @@ header_pages:
   - index.html
   - about.md
   - posters.md
-  #- activities.md
+  - archives.md
+   #- activities.md
   #- sponpors.md
   #- gradschools.md
   #- tshirtcontest.md
 #  - merchandise.md
 
-#   - archives.html
+
 #   - categories.html
 #   - tags.html
 
