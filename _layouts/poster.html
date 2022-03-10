@@ -59,7 +59,8 @@ No video submitted.
 
 <p>
 {% if page["Poster filename"] %}
-{%- assign poster_file = page.path | split: "/" | pop | join: "/" | append: "/images/" | append: page["Poster filename"] -%}
+
+{%- assign poster_file = "/posters/images/" | append: page["Poster filename"] -%}
 <a href="{{ poster_file | append: ".pdf" | relative_url }}" target="_blank"><img src="{{ poster_file | append: ".png" | relative_url | uri_escape }}" alt="poster thumbnail"></a>
 {% else %}
 No poster file submitted.
