@@ -28,7 +28,7 @@ github_username:  jekyll
 header_pages:
   - index.html
   - about.md
-  - posters.md
+#  - posters.md
   - archives.md
    #- activities.md
   #- sponpors.md
