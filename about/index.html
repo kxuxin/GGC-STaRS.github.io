@@ -601,6 +601,24 @@ document.addEventListener('DOMContentLoaded', function(event) {
     }
   })();
 </script>
+<div id="click-to-top" class="click-to-top">
+  <i class="fa fa-arrow-up"></i>
+</div>
+<script>
+  (function () {
+    const clickToTop = document.getElementById('click-to-top');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 100) {
+        clickToTop.classList.add('show')
+      }else {
+        clickToTop.classList.remove('show')
+      }
+    });
+    clickToTop.addEventListener('click', () => {
+      window.smoothScrollTo(0);
+    });
+  })();
+</script>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="framework">
@@ -855,11 +873,16 @@ document.addEventListener('DOMContentLoaded', function(event) {
     </div>
   </div>
 
+<h3 id="-location-of-events-">🐻 Location of Events 🐻</h3>
+
+<p><img src="/assets/images/loc1.png" alt="Location 1" title="Location 1">
+  <img src="/assets/images/loc2.png" alt="Location 2" title="Location 2"></p>
+
 <h3 id="-school-of-science-and-technology-sst-">🐻 School of Science and Technology (SST) 🐻</h3>
 
 <p>The School of Science and Technology (SST) at GGC is creating a diverse community of STEM graduates. SST offers programs in Biology, Chemistry, Information Technology, Mathematics, Exercise Science, and Environmental Science and has a unique and diverse student population (32% Black or African-American, 19% Hispanic, and 14% Asian), with 54% males and 46% females.  About 30% of SST students are the first in their families to go to college.  Nearly all STEM students participate in STaRS and the event is open to other GGC students as well, with an estimated 3,000 GGC students in attendance.</p>
 
-<p>Read the SST dean’s message for STaRS 2022 here! (TBD)</p>
+<p>Read the SST dean’s message for STaRS 2022 <a href="https://ggc-stars.github.io/stars2022/update/2022/03/18/deans-message.htmlTBD">here!</a></p>
 
 <p><img src="/assets/images/sst-image-fb.jpg" alt="SST collage" title="A collage of SST faculty and students"></p>
 
