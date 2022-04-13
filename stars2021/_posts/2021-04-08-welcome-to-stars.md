@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to STaRS"
+categories: update
 ---
 
 Welcome everyone,
