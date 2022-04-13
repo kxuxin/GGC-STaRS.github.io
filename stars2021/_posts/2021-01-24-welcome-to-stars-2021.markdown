@@ -2,7 +2,7 @@
 layout: post
 title:  "Important dates for STARS 2021 - Stay Tuned!"
 date:   2021-02-09 14:46:31 -0500
-categories: update
+<!-- categories: update -->
 ---
 
 GGC STaRS showcases GGC student research. This year, STARS is
