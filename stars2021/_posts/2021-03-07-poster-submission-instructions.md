@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "STaRS Poster Submission Instructions"
+categories: update
 ---
 
 Poster presentations should be first registered through the online form (see email!).
