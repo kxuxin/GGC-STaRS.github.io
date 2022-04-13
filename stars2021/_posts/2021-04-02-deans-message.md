@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Dean's Message"
-categories: update
 ---
 
 Dear GGC family, 
