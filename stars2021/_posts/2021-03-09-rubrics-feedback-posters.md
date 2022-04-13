@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "STaRS Poster Rubrics Feedback"
-categories: update
 ---
 
 Poster Rubrics Feedback:
