@@ -39,10 +39,10 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: gh-pages-stars2021
-          path: _site/stars2021
+          path: _site/archive-stars2021
 
       - name: Remove git 
-        run: rm -rf _site/stars2021/.git
+        run: rm -rf _site/archive-stars2021/.git
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.0
