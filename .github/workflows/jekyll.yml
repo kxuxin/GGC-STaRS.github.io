@@ -32,7 +32,7 @@ jobs:
         run: rm -rf _site/archive-stars2021/.git
 
       - name: Upload site ↗️
-        uses: actions/upload-pages-artifact@v3 # official action in beta
+        uses: actions/upload-pages-artifact@v1.0.7 # official action in beta
           
       - name: Deploy to GitHub Pages 🚀
         id: deployment
