@@ -24,8 +24,11 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ubuntu
-    run: apt install git
+      
     steps:
+      - name: install
+        run: apt install git
+        
       - name: Checkout 🛎️
         uses: actions/checkout@v3
 
