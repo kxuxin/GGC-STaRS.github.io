@@ -33,7 +33,7 @@ jobs:
       #    pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
           
       - name: Build only 🔧
-        uses: jekyll-build-pages
+        uses: actions/jekyll-build-pages@v1.0.7
 
       - name: Checkout 2021 archive branch 🛎️
         uses: actions/checkout@v3
